@@ -1,8 +1,3 @@
-###Contact
-studer + raimann ag  
-Waldeggstrasse 72  
-3097 Liebefeld  
-Switzerland 
-
+### Contact
 info@studer-raimann.ch  
-www.studer-raimann.ch  
+https://studer-raimann.ch  
